@@ -1,7 +1,7 @@
 document.querySelectorAll('.btn').forEach((item)=>{
     item.addEventListener('click',()=>{
-        alert('Hello Mr.Matmutovic');
+        alert('Hello Mr.Mahmutovic');
 
-        
+
     });
 });
