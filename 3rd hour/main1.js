@@ -13,7 +13,7 @@ let age ='34';
 
  const skill2 = "Ronald's skills are improving with Elvis Help";
 
- console log(skill2);
+ console. log(skill2);
 
  const firstName = 'Ronald';
  const lastName = 'Taylor'
