@@ -51,10 +51,8 @@ const slices = pizza %  children;
 
 console.log("I will have" + slices + "for myself")
 
+let num1 = 3;
 
-let num1 = 24
+let num3 = 3 * 'pants';
 
-let num = 16;
-
-let num3 = num1 +num2;
-console.log(num3):
+console.log(num3);
